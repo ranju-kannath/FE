@@ -1,7 +1,10 @@
 /TestGit/nbproject/private/
+/TestGit/nbproject/project.properties
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+/TestGit/build/
+/TestGit/dist/
