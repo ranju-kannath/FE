@@ -1,6 +1,7 @@
 /TestGit/nbproject/private/
 /TestGit/nbproject/project.properties
 /TestGit/lib/
+!/TestGit/lib/nblibraries.properties
 *.class
 
 # Package Files #
