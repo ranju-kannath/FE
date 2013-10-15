@@ -13,7 +13,7 @@ import javafx.scene.control.Label;
 
 /**
  *
- * @author Tarant 3
+ * @author ranju
  */
 public class SampleController implements Initializable {
     
